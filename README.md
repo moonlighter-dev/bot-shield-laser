@@ -3,7 +3,7 @@ This is a simple rock-paper-scissors game, She Ra themed because I am an avid fa
 
 **Link to project:** http://bot-shield-laser.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+![The Horde Trio that plays bot-shield-laser](https://bot-shield-laser.netlify.app/css/horde%20trio.png)
 
 ## How It's Made:
 
