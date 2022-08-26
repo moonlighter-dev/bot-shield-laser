@@ -4,6 +4,7 @@ This is a simple rock-paper-scissors game, She Ra themed because I am an avid fa
 **Link to project:** http://bot-shield-laser.netlify.app/
 
 ![Project Tile](https://danaarroway.com/images/project-tiles/bot-shield-laser.png)
+
 ![Demo of gameplay](https://bot-shield-laser.netlify.app/bot-shield-laser.gif)
 
 ## How It's Made:
